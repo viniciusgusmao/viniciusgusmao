@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá mundo 👋
 
 Atualmente estou trabalhando com Javascript no frontend (React) e backend (AdonisJs). Sempre em contato também com o framework Laravel no PHP e no mobile com React Native.
 
